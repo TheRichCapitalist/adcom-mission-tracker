@@ -1376,7 +1376,7 @@ DATA["innovation-bal-1"] = {
                 },
                 {
                     "Resource": "Maize",
-                    "Qty": "1.00E+14"
+                    "Qty": "1.00E+15"
                 },
                 {
                     "Resource": "Comrade",
@@ -1424,7 +1424,7 @@ DATA["innovation-bal-1"] = {
                 },
                 {
                     "Resource": "Maize",
-                    "Qty": 1e+28
+                    "Qty": 1e+27
                 },
                 {
                     "Resource": "Comrade",
@@ -1472,7 +1472,7 @@ DATA["innovation-bal-1"] = {
                 },
                 {
                     "Resource": "Maize",
-                    "Qty": "1.00E+42"
+                    "Qty": "1.00E+44"
                 },
                 {
                     "Resource": "Comrade",
@@ -1896,7 +1896,7 @@ DATA["innovation-bal-1"] = {
                 },
                 {
                     "Resource": "Ore",
-                    "Qty": "1.0E+40"
+                    "Qty": "1.0E+38"
                 },
                 {
                     "Resource": "Comrade",
@@ -2180,7 +2180,7 @@ DATA["innovation-bal-1"] = {
                 },
                 {
                     "Resource": "Medicine",
-                    "Qty": 1e+41
+                    "Qty": 1e+47
                 },
                 {
                     "Resource": "Comrade",
