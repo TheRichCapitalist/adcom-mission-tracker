@@ -2895,7 +2895,7 @@ DATA["innovation-bal-1"] = {
             "Rank": 8,
             "Condition": {
                 "ConditionType": "ResourceQuantity",
-                "Threshold": 40000,
+                "Threshold": 22500,
                 "ConditionId": "coldstorage"
             },
             "Reward": {
